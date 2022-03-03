@@ -1,13 +1,41 @@
-### [ Live Site] { https://gaurav-jo1-reactweatherapp.netlify.app/ }
+![Progressive_Web_App](https://user-images.githubusercontent.com/93304640/156499623-9ccc270f-d999-4bbf-a4c0-ab38096457c0.png)
 
-## Introduction
+# Live site link ⬇️
 
-I created a Weather app using React js ⚛️
-Fully responsive ✔️ ( Website will work in Desktop, Tablet and Phone etc.)
+https://portfolio-michael-react.netlify.app/
 
-API ✔️ ( Web app using API for weather information . )
 
-PWA ✔️ ( Progressive Web App, apps that use service workers, manifests, and other web-platform features in combination with progressive enhancement) etc.
+# Tech Stack 💻
 
-Setup:
-- run ```npm i && npm start``` for tge client and server side to start the development server
+⚔️ React.js
+
+⚔️ JavaScript
+
+⚔️ CSS
+
+⚔️ Axios
+
+⚔️ HTML
+
+# Tools 🔧
+
+⚓ Visual Studio Code
+
+⚓ NPM (Node Package manager)
+
+⚓ Git
+
+
+# Visuals 🌻
+
+![SS22](https://user-images.githubusercontent.com/93304640/156499951-621aa71b-6954-4ab5-b94c-626002803401.jpg)
+
+
+# Installation 🔏
+
+
+You can use Visual Studio or your favourite IDE
+
+- clone the repository.
+- install the dependencies.
+- run `npm run start`.
