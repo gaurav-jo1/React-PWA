@@ -2,7 +2,7 @@
 
 # Live site link ⬇️
 
-https://portfolio-michael-react.netlify.app/
+https://gaurav-jo1-reactweatherapp.netlify.app/
 
 
 # Tech Stack 💻
